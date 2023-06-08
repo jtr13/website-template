@@ -1,0 +1,19 @@
+---
+title: "About Me"
+about:
+  id: me
+  template: broadside
+  image: img/profile.png
+---
+
+:::{#me}
+
+## Goals
+
+## Education
+
+## Experience
+
+:::
+
+Thanks for checking out my web site!
