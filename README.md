@@ -1,5 +1,7 @@
 # website-template
 
+[Video tutorial](https://youtu.be/8iB1kGVeUHU)
+
 This is a template for creating a Quarto web site using RStudio.
 
 To use it effectively you need to know how to push and pull from GitHub to RStudio using the Git panel buttons, which requires a working GitHub personal access token (PAT). If you don't have one setup, following [these instructions](https://happygitwithr.com/https-pat.html#tldr) in *Happy Git and GitHub for the useR* to set one up. (In short you will create a token for HTTPS and store it using **gitcreds**.)
