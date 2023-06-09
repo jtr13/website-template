@@ -36,7 +36,7 @@ Tip: From the file pane in RStudio, open `README.md`, which contains these instr
 
 ### Render the web site (RStudio)
 
-- [ ] 1. Click "Help" "Check for Updates" to make sure you have the latest version of RStudio (and thus have Quarto installed.)
+- [ ] 1. If you haven't already, click "Help" "Check for Updates" to make sure you have the latest version of RStudio (and thus have Quarto installed.)
 
 - [ ] 2. Render the web site locally by clicking the "Build" tap on the right and then "Render Website".
 
